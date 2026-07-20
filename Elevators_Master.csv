@@ -1,0 +1,61 @@
+ElevatorID,BuildingName,City,State,Country,ElevatorType,Manufacturer,Model,CapacityKg,NumFloors,InstallDate,Status
+ELV-1000,Tower 48,Sydney,NSW,Australia,Escalator,Schindler,M-328,800,51,2012-07-01,Active
+ELV-1001,Tower 38,Berlin,BE,Germany,Home Lift,Otis,M-130,630,17,2022-03-26,Active
+ELV-1002,Mall 13,Mumbai,MH,India,Service Elevator,ThyssenKrupp,M-325,1275,41,2010-08-06,Active
+ELV-1003,Complex 28,New York,NY,USA,Escalator,KONE,M-259,800,52,2013-07-31,Active
+ELV-1004,Tower 23,Chicago,IL,USA,Escalator,Mitsubishi Electric,M-370,630,50,2018-07-10,Active
+ELV-1005,Tower 36,Chicago,IL,USA,Escalator,Fujitec,M-733,1000,40,2018-06-28,Active
+ELV-1006,Complex 15,Chicago,IL,USA,Escalator,Otis,M-975,800,59,2011-01-11,Active
+ELV-1007,Complex 24,Vancouver,BC,Canada,Freight,KONE,M-463,800,46,2020-03-03,Active
+ELV-1008,Mall 41,Sydney,NSW,Australia,Freight,Mitsubishi Electric,M-846,800,14,2011-08-08,Active
+ELV-1009,Plaza 44,Vancouver,BC,Canada,Escalator,Otis,M-334,630,55,2022-06-29,Active
+ELV-1010,Plaza 37,Vancouver,BC,Canada,Escalator,Schindler,M-771,1275,29,2011-06-27,Decommissioned
+ELV-1011,Plaza 17,Sydney,NSW,Australia,Freight,Schindler,M-862,1600,38,2020-04-16,Active
+ELV-1012,Mall 26,Mumbai,MH,India,Escalator,Schindler,M-241,1600,35,2019-08-11,Active
+ELV-1013,Plaza 41,New York,NY,USA,Freight,Fujitec,M-532,1600,8,2012-06-17,Active
+ELV-1014,Mall 17,Mumbai,MH,India,Service Elevator,Otis,M-796,2000,11,2020-07-01,Active
+ELV-1015,Complex 22,Singapore,SG,Singapore,Passenger,KONE,M-545,800,33,2015-12-26,Active
+ELV-1016,Mall 49,Berlin,BE,Germany,Freight,Mitsubishi Electric,M-208,2000,23,2015-11-28,Under Maintenance
+ELV-1017,Plaza 10,Singapore,SG,Singapore,Escalator,Schindler,M-652,1600,4,2023-08-29,Active
+ELV-1018,Tower 24,Dubai,DU,UAE,Escalator,Schindler,M-159,800,60,2010-06-09,Active
+ELV-1019,Complex 32,Chicago,IL,USA,Passenger,Mitsubishi Electric,M-884,800,12,2011-12-03,Active
+ELV-1020,Center 34,Singapore,SG,Singapore,Service Elevator,ThyssenKrupp,M-316,1600,52,2013-09-14,Under Maintenance
+ELV-1021,Residency 43,Toronto,ON,Canada,Escalator,ThyssenKrupp,M-629,1275,11,2016-12-28,Active
+ELV-1022,Tower 38,Chicago,IL,USA,Service Elevator,Schindler,M-702,800,4,2017-08-01,Active
+ELV-1023,Plaza 5,Sydney,NSW,Australia,Passenger,KONE,M-172,1600,19,2011-04-28,Active
+ELV-1024,Mall 9,Dubai,DU,UAE,Service Elevator,Mitsubishi Electric,M-584,800,54,2014-10-22,Active
+ELV-1025,Tower 7,Manchester,ENG,UK,Home Lift,KONE,M-533,1275,33,2014-04-09,Decommissioned
+ELV-1026,Tower 26,New York,NY,USA,Escalator,Otis,M-354,800,16,2012-03-17,Active
+ELV-1027,Plaza 18,Dallas,TX,USA,Home Lift,Schindler,M-995,630,32,2019-06-19,Under Maintenance
+ELV-1028,Tower 42,Singapore,SG,Singapore,Service Elevator,Otis,M-195,800,14,2012-03-13,Active
+ELV-1029,Residency 4,Dubai,DU,UAE,Freight,ThyssenKrupp,M-102,1275,20,2014-10-18,Decommissioned
+ELV-1030,Residency 45,Dubai,DU,UAE,Service Elevator,Fujitec,M-835,1275,13,2016-05-25,Active
+ELV-1031,Mall 48,Toronto,ON,Canada,Service Elevator,Otis,M-865,1000,7,2011-04-25,Active
+ELV-1032,Mall 11,Dubai,DU,UAE,Passenger,Mitsubishi Electric,M-182,800,8,2021-04-12,Active
+ELV-1033,Residency 8,Sydney,NSW,Australia,Service Elevator,Schindler,M-692,1600,6,2015-04-11,Active
+ELV-1034,Mall 34,Manchester,ENG,UK,Escalator,KONE,M-309,2000,49,2023-02-03,Active
+ELV-1035,Plaza 43,Vancouver,BC,Canada,Escalator,ThyssenKrupp,M-423,630,4,2018-11-17,Active
+ELV-1036,Tower 35,Mumbai,MH,India,Freight,Mitsubishi Electric,M-371,800,26,2012-03-30,Decommissioned
+ELV-1037,Center 11,Toronto,ON,Canada,Home Lift,Mitsubishi Electric,M-820,1000,43,2018-04-16,Installation Pending
+ELV-1038,Tower 43,Sydney,NSW,Australia,Service Elevator,KONE,M-779,630,60,2021-11-12,Active
+ELV-1039,Complex 36,Chicago,IL,USA,Freight,KONE,M-388,1600,17,2012-05-26,Under Maintenance
+ELV-1040,Mall 32,Toronto,ON,Canada,Escalator,Otis,M-194,2000,31,2015-12-03,Under Maintenance
+ELV-1041,Center 50,New York,NY,USA,Freight,Fujitec,M-368,800,51,2010-01-30,Active
+ELV-1042,Mall 1,Berlin,BE,Germany,Passenger,Otis,M-807,800,38,2019-08-05,Active
+ELV-1043,Mall 10,London,ENG,UK,Home Lift,Schindler,M-142,1000,27,2023-01-24,Decommissioned
+ELV-1044,Plaza 44,New York,NY,USA,Freight,Fujitec,M-205,1000,53,2018-01-10,Active
+ELV-1045,Complex 10,Manchester,ENG,UK,Freight,Schindler,M-919,800,60,2023-12-03,Active
+ELV-1046,Residency 43,Dallas,TX,USA,Freight,KONE,M-263,2000,10,2017-06-14,Active
+ELV-1047,Plaza 13,New York,NY,USA,Home Lift,KONE,M-412,800,18,2020-07-22,Active
+ELV-1048,Center 18,Toronto,ON,Canada,Passenger,KONE,M-459,2000,36,2018-12-09,Active
+ELV-1049,Tower 8,Singapore,SG,Singapore,Escalator,Schindler,M-694,1000,6,2017-06-05,Active
+ELV-1050,Complex 21,Manchester,ENG,UK,Home Lift,Mitsubishi Electric,M-623,630,28,2017-10-02,Decommissioned
+ELV-1051,Tower 46,Toronto,ON,Canada,Home Lift,Otis,M-632,1600,47,2015-09-18,Under Maintenance
+ELV-1052,Center 28,Berlin,BE,Germany,Passenger,Fujitec,M-438,1600,24,2014-06-03,Active
+ELV-1053,Mall 20,Chicago,IL,USA,Home Lift,KONE,M-512,2000,22,2016-09-26,Active
+ELV-1054,Complex 25,Toronto,ON,Canada,Freight,Mitsubishi Electric,M-682,1000,29,2019-06-07,Active
+ELV-1055,Center 14,New York,NY,USA,Home Lift,Mitsubishi Electric,M-721,2000,24,2016-10-25,Active
+ELV-1056,Mall 31,Dubai,DU,UAE,Freight,Fujitec,M-186,1000,36,2014-10-17,Active
+ELV-1057,Tower 49,Mumbai,MH,India,Freight,Fujitec,M-417,800,55,2017-07-08,Active
+ELV-1058,Plaza 31,New York,NY,USA,Service Elevator,Otis,M-566,1275,60,2011-01-14,Active
+ELV-1059,Residency 26,Toronto,ON,Canada,Freight,Schindler,M-771,2000,4,2018-08-12,Decommissioned
